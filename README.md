@@ -24,8 +24,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<a href="http://imgur.com/W5HmMZm"><img src="http://i.imgur.com/W5HmMZm.gif" title="source: imgur.com" /></a>
-
+<a href="http://imgur.com/vvrw1tX"><img src="http://i.imgur.com/vvrw1tX.gif" title="TaskList" /></a>
 
 ## License
 
